@@ -25,7 +25,7 @@ public class Ch1Notes
         long n2 = 56; // more storage for an int
         short n3 = 7;
         
-        
+        int $number = 76; // you can use dollar signs
         
         //these are classes; objects created instead of variables
         
